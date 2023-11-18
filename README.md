@@ -17,7 +17,7 @@ Feedback form with google authentication
 
 ## 1. Clone This Repo
   
-     $ https://github.com/rishavgn/MS_Engage_2022_Rishav.git
+     $ https://github.com/rishavgn/tensorassg
   
   
 ## 2. Install packages
