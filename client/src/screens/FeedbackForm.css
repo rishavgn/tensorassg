@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .left-container {
+    flex: 1;
+    padding: 20px;
+    width: 40%;
+  }
+  
+  .right-container {
+    flex: 1;
+    padding: 20px;
+    width: 40%;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Style for feedback form inputs */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  select,
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Style for retrieved feedback data */
+  h2 {
+    color: #333;
+  }
+  
